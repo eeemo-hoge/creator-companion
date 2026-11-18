@@ -21,5 +21,4 @@ You can also [track Packages](https://github.com/vrchat-community/creator-compan
 
 We are migrating our main Docs here as well, so that you can contribute suggestions and changes.
 
-[description](LICENSE)
 license is "[LICENSE](LICENSE)"
